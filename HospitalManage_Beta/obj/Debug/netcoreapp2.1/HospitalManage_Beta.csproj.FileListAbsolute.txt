@@ -35,3 +35,40 @@ C:\Users\huyluuit\Desktop\Project\HospitalManage_Beta\HospitalManage_Beta\obj\De
 C:\Users\huyluuit\Desktop\Project\HospitalManage_Beta\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
 C:\Users\huyluuit\Desktop\Project\HospitalManage_Beta\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\AdminConsole\Index.g.cshtml.cs
 C:\Users\huyluuit\Desktop\Project\HospitalManage_Beta\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\StaffConsole\Index.g.cshtml.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\bin\Debug\netcoreapp2.1\HospitalManage_Beta.deps.json
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\bin\Debug\netcoreapp2.1\HospitalManage_Beta.runtimeconfig.json
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\bin\Debug\netcoreapp2.1\HospitalManage_Beta.runtimeconfig.dev.json
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\bin\Debug\netcoreapp2.1\HospitalManage_Beta.dll
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\bin\Debug\netcoreapp2.1\HospitalManage_Beta.pdb
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\bin\Debug\netcoreapp2.1\HospitalManage_Beta.Views.dll
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\bin\Debug\netcoreapp2.1\HospitalManage_Beta.Views.pdb
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\HospitalManage_Beta.csprojAssemblyReference.cache
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\HospitalManage_Beta.csproj.CoreCompileInputs.cache
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\HospitalManage_Beta.RazorAssemblyInfo.cache
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\HospitalManage_Beta.RazorAssemblyInfo.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\HospitalManage_Beta.AssemblyInfoInputs.cache
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\HospitalManage_Beta.AssemblyInfo.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\HospitalManage_Beta.TagHelpers.input.cache
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\HospitalManage_Beta.TagHelpers.output.cache
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\HospitalManage_Beta.RazorCoreGenerate.cache
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\AdminConsole\Index.g.cshtml.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\Booking\Index.g.cshtml.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\Console\Index.g.cshtml.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\Register\Index.g.cshtml.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ConsoleLayout.g.cshtml.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginRegisterLayout.g.cshtml.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\StaffConsole\Index.g.cshtml.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\HospitalManage_Beta.RazorTargetAssemblyInfo.cache
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\HospitalManage_Beta.RazorTargetAssemblyInfo.cs
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\HospitalManage_Beta.Views.pdb
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\HospitalManage_Beta.dll
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\HospitalManage_Beta.pdb
+E:\ASP.NET MVC PROJECT\HospitalManaged\HospitalManage_Beta\obj\Debug\netcoreapp2.1\HospitalManage_Beta.csproj.CopyComplete
