@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Client/Views/Shared/_Layout.cshtml";
+}
+
+<form>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <span class="form-label-header">ĐẶT LỊCH KHÁM BỆNH</span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <span class="form-label">CHỌN NGÀY</span>
+                <input class="form-control" type="date" required>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="form-group">
+                <span class="form-label">NƠI KHÁM</span>
+                <select class="form-control">
+                    <option>Bệnh Viện Chợ Rẫy</option>
+                    <option>Bệnh Viện Thủ Đức</option>
+                    <option>Bệnh Viện Nhiệt đới</option>
+                </select>
+                <span class="select-arrow"></span>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="form-group">
+                <span class="form-label">DỊCH VỤ KHÁM</span>
+                <select class="form-control">
+                    <option>Khám tổng quát</option>
+                    <option>Khám mắt</option>
+                    <option>Khám răng-hàm-mặt</option>
+                </select>
+                <span class="select-arrow"></span>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-6">
+            <div class="form-btn">
+                <button class="login-btn">ĐĂNG NHẬP</button>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="form-btn">
+                <button class="submit-btn">ĐẶT LỊCH</button>
+            </div>
+        </div>
+
+    </div>
+</form>
+

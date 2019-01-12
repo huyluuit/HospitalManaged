@@ -1,0 +1,59 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TypeScriptToolsVersion>3.0</TypeScriptToolsVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FirebaseAuthentication.net" Version="3.2.0" />
+    <PackageReference Include="FirebaseDatabase.net" Version="3.3.3" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\booking\bootstrap.min.css" />
+    <None Include="wwwroot\css\booking\style.css" />
+    <None Include="wwwroot\css\booking\img\background.jpg" />
+    <None Include="wwwroot\css\console\vendors\bootstrap\.github\CONTRIBUTING.md" />
+    <None Include="wwwroot\css\console\vendors\bootstrap\.github\ISSUE_TEMPLATE\bug.md" />
+    <None Include="wwwroot\css\console\vendors\bootstrap\.github\ISSUE_TEMPLATE\bug_report.md" />
+    <None Include="wwwroot\css\console\vendors\bootstrap\.github\ISSUE_TEMPLATE\feature.md" />
+    <None Include="wwwroot\css\console\vendors\bootstrap\.github\ISSUE_TEMPLATE\feature_request.md" />
+    <None Include="wwwroot\css\console\vendors\bootstrap\.github\SUPPORT.md" />
+    <None Include="wwwroot\css\console\vendors\jquery-validation-unobtrusive\.vsts-pipelines\builds\ci-public.yml" />
+    <None Include="wwwroot\css\home\.sass-cache\0a3f1e75f57ddbc700417c546bf9193e830a2942\_color.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\0a3f1e75f57ddbc700417c546bf9193e830a2942\_fonts.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\0a3f1e75f57ddbc700417c546bf9193e830a2942\_responsive.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\0a3f1e75f57ddbc700417c546bf9193e830a2942\_variables.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\8bea6b2c7d95226dcc6eeda055e69e8e1b5be5e3\_flex.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\8bea6b2c7d95226dcc6eeda055e69e8e1b5be5e3\_miscellaneous.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\about.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\appointment.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\backtotop.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\barfiller.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\blog.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\breadcrumb.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\buttons.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\contact.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\dentist.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\footer.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\header.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\heading.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\hero.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\preloader.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\pricing.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\reboot.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\service.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\spacing.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\style.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\testimonial.scssc" />
+    <None Include="wwwroot\css\home\.sass-cache\bfc779a96bd0f2b7862acec4fcf3f994a28ca939\widget.scssc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\css\home\src\" />
+  </ItemGroup>
+
+</Project>
